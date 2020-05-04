@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372693557043",
+    "firebase_url": "https://whatsappreplica-1a8f7.firebaseio.com",
+    "project_id": "whatsappreplica-1a8f7",
+    "storage_bucket": "whatsappreplica-1a8f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372693557043:android:2f4095130cda012447a846",
+        "android_client_info": {
+          "package_name": "io.simstech.whatsappreplica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372693557043-h400klcqspjpa3jchhk87g78qcv0pfcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDSvsDUipPyRx1XkWClb1wopGpsd9fhW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372693557043-h400klcqspjpa3jchhk87g78qcv0pfcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
